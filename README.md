@@ -1,0 +1,1 @@
+# Sign_language_recognition-openCV-mediapipe-randomForest
